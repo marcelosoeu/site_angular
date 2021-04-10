@@ -1,0 +1,23 @@
+
+.login
+{
+    color: cornsilk;
+    text-align: center;
+    float: right;
+    margin-top: -15px;   
+    
+    button
+    {
+        width: 70px;
+        color: black;
+        background-color: transparent;
+        border: none;
+        cursor: pointer;
+
+        .acesso{
+            padding-top: 2px;
+            text-align: center;
+            font-size: 4em;
+        }
+    }
+}

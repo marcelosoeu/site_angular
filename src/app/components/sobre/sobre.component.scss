@@ -1,0 +1,45 @@
+
+.Sobre   
+{
+    font-family: Arial;
+    font-size: 14pt;
+    width: 100%;
+    margin: 0% 1% 1% 0%;
+    padding: 1% 0% 1% 0%;
+    float: left;
+
+    
+    .fundo
+    {
+        width: 50%;
+        margin-left: 25%;
+        margin-top: 2%;
+    
+        
+        #s
+        {
+            font-size: 5rem;
+            margin-left: 10px;
+            padding-bottom: 10px;
+            font-weight: bold;
+            color: #8B0000;
+            float: left;
+            padding-top: 35px;
+        }
+        .text1
+        {        
+        justify-content: space-around;
+        line-height: 2.3;
+        text-align: justify;
+        
+        }
+
+        .text2
+        {
+            justify-content: space-around;
+            line-height: 2.3;
+            text-align: justify;
+            padding-top: 10px;
+        }
+    }   
+}

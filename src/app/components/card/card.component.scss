@@ -1,0 +1,22 @@
+.example-card 
+    {
+        max-width: 220px;
+        float: left;
+        margin-left: 6%;
+        text-align: center;
+        padding-bottom: 50px;
+
+
+        
+        .linha
+        {
+            margin-top: 0px;
+            margin-bottom: 57px;
+            height: 2px;
+        }
+
+        .desc
+        {
+            font-size: 13pt;
+        }
+    }

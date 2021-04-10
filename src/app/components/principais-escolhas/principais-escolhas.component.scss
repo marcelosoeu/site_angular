@@ -1,0 +1,26 @@
+.escolhas
+{   
+    display: flex;
+    width: 100%;
+    height: 760px;    
+
+   
+    .imagem
+    {
+        position: relative;
+        width: 100%;
+        height: 100%;
+        background: url('/assets/img/baner6.jpg') center center no-repeat;
+        background-size: 100% 100%; 
+        color: #fff;  
+        
+        .area
+        {
+            width: 100%;
+            padding-top: 5%;
+            width: 100%;
+            display: flex;
+            justify-content: space-around;
+        }
+    }
+}
